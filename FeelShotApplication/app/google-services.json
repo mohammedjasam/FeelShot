@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "527626849767",
+    "firebase_url": "https://feelshotapplication.firebaseio.com",
+    "project_id": "feelshotapplication",
+    "storage_bucket": "feelshotapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527626849767:android:6477488f09a36b73",
+        "android_client_info": {
+          "package_name": "com.mohsinhaider.feelshotapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527626849767-rmm8iq3kn3hkg0f6bk3f49hjbq14nkpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohsinhaider.feelshotapplication",
+            "certificate_hash": "C0DB4F7DEB2AC1CBD41F189EB6E8A3C546A1D256"
+          }
+        },
+        {
+          "client_id": "527626849767-rdmvgvsu0g8m4fen602rjupl5c7to812.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiqWQTDcQONGpRVJ-WvQu8hYpSMEYrsXg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527626849767-rdmvgvsu0g8m4fen602rjupl5c7to812.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
